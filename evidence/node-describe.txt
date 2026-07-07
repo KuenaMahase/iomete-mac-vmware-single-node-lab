@@ -1,0 +1,117 @@
+Name:               iomete-server
+Roles:              control-plane
+Labels:             beta.kubernetes.io/arch=arm64
+                    beta.kubernetes.io/instance-type=k3s
+                    beta.kubernetes.io/os=linux
+                    kubernetes.io/arch=arm64
+                    kubernetes.io/hostname=iomete-server
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/control-plane=true
+                    node.kubernetes.io/instance-type=k3s
+Annotations:        alpha.kubernetes.io/provided-node-ip: 192.168.1.29
+                    flannel.alpha.coreos.com/backend-data: {"VNI":1,"VtepMAC":"fa:e6:b5:96:3a:a2"}
+                    flannel.alpha.coreos.com/backend-type: vxlan
+                    flannel.alpha.coreos.com/kube-subnet-manager: true
+                    flannel.alpha.coreos.com/public-ip: 192.168.1.29
+                    k3s.io/hostname: iomete-server
+                    k3s.io/internal-ip: 192.168.1.29
+                    k3s.io/node-args: ["server"]
+                    k3s.io/node-config-hash: MLFMUCBMRVINLJJKSG32TOUFWB4CN55GMSNY25AZPESQXZCYRN2A====
+                    k3s.io/node-env: {}
+                    node.alpha.kubernetes.io/ttl: 0
+                    volumes.kubernetes.io/controller-managed-attach-detach: true
+CreationTimestamp:  Tue, 30 Jun 2026 19:50:47 +0000
+Taints:             <none>
+Unschedulable:      false
+Lease:
+  HolderIdentity:  iomete-server
+  AcquireTime:     <unset>
+  RenewTime:       Thu, 02 Jul 2026 08:26:42 +0000
+Conditions:
+  Type             Status  LastHeartbeatTime                 LastTransitionTime                Reason                       Message
+  ----             ------  -----------------                 ------------------                ------                       -------
+  MemoryPressure   False   Thu, 02 Jul 2026 08:23:09 +0000   Tue, 30 Jun 2026 19:50:47 +0000   KubeletHasSufficientMemory   kubelet has sufficient memory available
+  DiskPressure     False   Thu, 02 Jul 2026 08:23:09 +0000   Tue, 30 Jun 2026 19:50:47 +0000   KubeletHasNoDiskPressure     kubelet has no disk pressure
+  PIDPressure      False   Thu, 02 Jul 2026 08:23:09 +0000   Tue, 30 Jun 2026 19:50:47 +0000   KubeletHasSufficientPID      kubelet has sufficient PID available
+  Ready            True    Thu, 02 Jul 2026 08:23:09 +0000   Tue, 30 Jun 2026 19:50:48 +0000   KubeletReady                 kubelet is posting ready status
+Addresses:
+  InternalIP:  192.168.1.29
+  Hostname:    iomete-server
+Capacity:
+  cpu:                7
+  ephemeral-storage:  150554256Ki
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  hugepages-32Mi:     0
+  hugepages-64Ki:     0
+  memory:             13743548Ki
+  pods:               110
+Allocatable:
+  cpu:                7
+  ephemeral-storage:  146459180122
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  hugepages-32Mi:     0
+  hugepages-64Ki:     0
+  memory:             13743548Ki
+  pods:               110
+System Info:
+  Machine ID:                 a346838527bf49638dd1688701772779
+  System UUID:                2ab24d56-a86c-36d5-5a54-c53072a9b39e
+  Boot ID:                    ce4a027d-9114-428c-bc1a-e2143ca1fa9d
+  Kernel Version:             7.0.0-27-generic
+  OS Image:                   Ubuntu 26.04 LTS
+  Operating System:           linux
+  Architecture:               arm64
+  Container Runtime Version:  containerd://2.3.2-k3s2
+  Kubelet Version:            v1.36.2+k3s1
+PodCIDR:                      10.42.0.0/24
+PodCIDRs:                     10.42.0.0/24
+ProviderID:                   k3s://iomete-server
+Non-terminated Pods:          (32 in total)
+  Namespace                   Name                                                      CPU Requests  CPU Limits   Memory Requests  Memory Limits  Age
+  ---------                   ----                                                      ------------  ----------   ---------------  -------------  ---
+  data-plane-ns               prefect-worker-data-plane-ns-7cb86b7bb8-mln9g             1010m (14%)   1550m (22%)  1010Mi (7%)      1550Mi (11%)   35h
+  iomete-system               iom-app-695cb876c7-l8q42                                  50m (0%)      100m (1%)    10Mi (0%)        100Mi (0%)     34h
+  iomete-system               iom-catalog-7977dfdd57-fqlfq                              100m (1%)     2 (28%)      256Mi (1%)       8000Mi (59%)   24h
+  iomete-system               iom-cluster-c9d9bfbbc-cbsdg                               100m (1%)     2 (28%)      256Mi (1%)       4000Mi (29%)   24h
+  iomete-system               iom-core-6968f7f6c4-d9m2n                                 100m (1%)     2 (28%)      256Mi (1%)       4000Mi (29%)   24h
+  iomete-system               iom-event-stream-0                                        2 (28%)       2 (28%)      2348Mi (17%)     2348Mi (17%)   35h
+  iomete-system               iom-event-stream-proxy-6c9f785db8-xgcnt                   50m (0%)      1 (14%)      1Gi (7%)         1Gi (7%)       34h
+  iomete-system               iom-gateway-699864467-gd5h7                               50m (0%)      3 (42%)      20Mi (0%)        1000Mi (7%)    17h
+  iomete-system               iom-health-check-65c846f584-m4mqc                         50m (0%)      1 (14%)      500Mi (3%)       2000Mi (14%)   34h
+  iomete-system               iom-identity-7d98b54f47-bv8r6                             250m (3%)     500m (7%)    256Mi (1%)       1Gi (7%)       34h
+  iomete-system               iom-job-orchestrator-metrics-exporter-78bd85b95b-2ntnh    50m (0%)      200m (2%)    100Mi (0%)       400Mi (2%)     34h
+  iomete-system               iom-maintenance-5c64f4584f-gl72z                          100m (1%)     2 (28%)      256Mi (1%)       1000Mi (7%)    24h
+  iomete-system               iom-rest-catalog-6bb94bd985-8dr2p                         100m (1%)     2 (28%)      256Mi (1%)       6000Mi (44%)   24h
+  iomete-system               iom-socket-74cfcb78cc-t9rk4                               100m (1%)     1 (14%)      256Mi (1%)       500Mi (3%)     24h
+  iomete-system               iom-spark-connect-driver                                  100m (1%)     500m (7%)    1408Mi (10%)     1408Mi (10%)   24h
+  iomete-system               iom-sql-8674df568f-nfqxv                                  100m (1%)     500m (7%)    256Mi (1%)       1Gi (7%)       24h
+  iomete-system               metastore-75564686cb-92tnh                                100m (1%)     1 (14%)      256Mi (1%)       1536Mi (11%)   24h
+  iomete-system               minio-9cdd7bb74-jpl2p                                     0 (0%)        0 (0%)       0 (0%)           0 (0%)         35h
+  iomete-system               postgresql-0                                              100m (1%)     1 (14%)      128Mi (0%)       1Gi (7%)       35h
+  iomete-system               prefect-server-7c97675cbc-cg7rr                           100m (1%)     500m (7%)    256Mi (1%)       1Gi (7%)       24h
+  iomete-system               prefect-worker-iomete-system-555698f78b-5r8vn             350m (5%)     1 (14%)      512Mi (3%)       2Gi (15%)      24h
+  iomete-system               prefect-worker-query-scheduling-57f5ccb968-5tvwq          110m (1%)     550m (7%)    288Mi (2%)       1074Mi (8%)    24h
+  iomete-system               spark-history-59d87fd95d-f5wk4                            100m (1%)     500m (7%)    256Mi (1%)       1Gi (7%)       24h
+  iomete-system               spark-operator-5f8c5f485-zbcbc                            250m (3%)     500m (7%)    256Mi (1%)       1Gi (7%)       34h
+  iomete-system               spark-operator-controller-566bc856b8-tzfwx                250m (3%)     500m (7%)    256Mi (1%)       1Gi (7%)       34h
+  iomete-system               spark-operator-submit-service-cc87d684c-nm76t             100m (1%)     500m (7%)    256Mi (1%)       1Gi (7%)       24h
+  iomete-system               typesense-5bb76cc55c-qfhbz                                100m (1%)     1 (14%)      256Mi (1%)       2000Mi (14%)   24h
+  kube-system                 coredns-5f5694d56b-z6dpw                                  100m (1%)     0 (0%)       70Mi (0%)        170Mi (1%)     36h
+  kube-system                 local-path-provisioner-58d557dc48-m5pbl                   0 (0%)        0 (0%)       0 (0%)           0 (0%)         36h
+  kube-system                 metrics-server-7c86f97b8d-sqgk5                           100m (1%)     0 (0%)       70Mi (0%)        0 (0%)         36h
+  kube-system                 svclb-traefik-ca2f7695-l556x                              0 (0%)        0 (0%)       0 (0%)           0 (0%)         36h
+  kube-system                 traefik-6cd8c7cd89-g8wwj                                  0 (0%)        0 (0%)       0 (0%)           0 (0%)         36h
+Allocated resources:
+  (Total limits may be over 100 percent, i.e., overcommitted.)
+  Resource           Requests       Limits
+  --------           --------       ------
+  cpu                6070m (86%)    28400m (405%)
+  memory             11328Mi (84%)  48350Mi (360%)
+  ephemeral-storage  0 (0%)         0 (0%)
+  hugepages-1Gi      0 (0%)         0 (0%)
+  hugepages-2Mi      0 (0%)         0 (0%)
+  hugepages-32Mi     0 (0%)         0 (0%)
+  hugepages-64Ki     0 (0%)         0 (0%)
+Events:              <none>

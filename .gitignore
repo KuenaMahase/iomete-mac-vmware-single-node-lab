@@ -1,0 +1,21 @@
+# Secrets / credentials
+*secret*
+*credentials*
+*password*
+*.key
+*.pem
+*.crt
+*.kubeconfig
+kubeconfig
+.env
+
+# Helm values that may contain secrets
+helm-values-current.yaml
+helm-values-current-clean.yaml
+*-values-with-secrets.yaml
+iomete-4.0.0-beta3-mac-lab-values.yaml
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

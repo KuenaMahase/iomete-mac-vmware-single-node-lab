@@ -1,0 +1,28 @@
+NAME                                                     READY   STATUS      RESTARTS      AGE   IP            NODE            NOMINATED NODE   READINESS GATES
+iom-app-695cb876c7-l8q42                                 1/1     Running     0             34h   10.42.0.58    iomete-server   <none>           <none>
+iom-catalog-7977dfdd57-fqlfq                             1/1     Running     0             24h   10.42.0.127   iomete-server   <none>           <none>
+iom-cluster-c9d9bfbbc-cbsdg                              1/1     Running     0             24h   10.42.0.128   iomete-server   <none>           <none>
+iom-core-6968f7f6c4-d9m2n                                1/1     Running     0             24h   10.42.0.129   iomete-server   <none>           <none>
+iom-event-stream-0                                       2/2     Running     7 (34h ago)   35h   10.42.0.48    iomete-server   <none>           <none>
+iom-event-stream-proxy-6c9f785db8-xgcnt                  1/1     Running     0             34h   10.42.0.64    iomete-server   <none>           <none>
+iom-gateway-699864467-gd5h7                              1/1     Running     0             17h   10.42.0.143   iomete-server   <none>           <none>
+iom-health-check-65c846f584-m4mqc                        1/1     Running     0             34h   10.42.0.65    iomete-server   <none>           <none>
+iom-identity-7d98b54f47-bv8r6                            1/1     Running     0             34h   10.42.0.92    iomete-server   <none>           <none>
+iom-job-orchestrator-metrics-exporter-78bd85b95b-2ntnh   1/1     Running     0             34h   10.42.0.70    iomete-server   <none>           <none>
+iom-maintenance-5c64f4584f-gl72z                         1/1     Running     0             24h   10.42.0.130   iomete-server   <none>           <none>
+iom-rest-catalog-6bb94bd985-8dr2p                        1/1     Running     0             24h   10.42.0.131   iomete-server   <none>           <none>
+iom-socket-74cfcb78cc-t9rk4                              1/1     Running     0             24h   10.42.0.132   iomete-server   <none>           <none>
+iom-spark-connect-driver                                 1/1     Running     0             24h   10.42.0.142   iomete-server   <none>           <none>
+iom-sql-8674df568f-nfqxv                                 1/1     Running     0             24h   10.42.0.133   iomete-server   <none>           <none>
+iomete-data-plane-init-ghkd9                             0/1     Completed   0             35h   <none>        iomete-server   <none>           <none>
+metastore-75564686cb-92tnh                               1/1     Running     0             24h   10.42.0.134   iomete-server   <none>           <none>
+minio-9cdd7bb74-jpl2p                                    1/1     Running     1 (32h ago)   35h   10.42.0.49    iomete-server   <none>           <none>
+postgresql-0                                             1/1     Running     1 (32h ago)   35h   10.42.0.47    iomete-server   <none>           <none>
+prefect-server-7c97675cbc-cg7rr                          1/1     Running     0             24h   10.42.0.135   iomete-server   <none>           <none>
+prefect-worker-iomete-system-555698f78b-5r8vn            2/2     Running     1 (24h ago)   24h   10.42.0.136   iomete-server   <none>           <none>
+prefect-worker-query-scheduling-57f5ccb968-5tvwq         2/2     Running     1 (24h ago)   24h   10.42.0.137   iomete-server   <none>           <none>
+spark-history-59d87fd95d-f5wk4                           1/1     Running     0             24h   10.42.0.138   iomete-server   <none>           <none>
+spark-operator-5f8c5f485-zbcbc                           1/1     Running     0             34h   10.42.0.99    iomete-server   <none>           <none>
+spark-operator-controller-566bc856b8-tzfwx               1/1     Running     0             34h   10.42.0.98    iomete-server   <none>           <none>
+spark-operator-submit-service-cc87d684c-nm76t            1/1     Running     0             24h   10.42.0.139   iomete-server   <none>           <none>
+typesense-5bb76cc55c-qfhbz                               1/1     Running     0             24h   10.42.0.140   iomete-server   <none>           <none>
