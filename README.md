@@ -208,3 +208,14 @@ Use it only if Helm overwrites the live lab fixes:
 This is a lab deployment, not a production HA deployment.
 
 For production, IOMETE should run on a properly sized multi-node Kubernetes cluster with external PostgreSQL, external object storage, ingress/TLS, monitoring, backup, and production-grade resource sizing.
+
+## Data Quality Reporting Framework
+
+<p align="center">
+  <img src="docs/images/data-quality-reporting-framework.png" alt="IOMETE Data Quality Reporting Framework" width="900">
+</p>
+
+The focused Banco de Moçambique Data Quality Reporting workstream is documented here:
+
+- [Data Quality Reporting Framework](docs/data-quality-reporting-framework.md)
+

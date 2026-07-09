@@ -1,5 +1,13 @@
 # Data Quality Reporting Framework
 
+<p align="center">
+  <img src="images/data-quality-reporting-framework.png" alt="IOMETE Data Quality Reporting Framework" width="1000">
+</p>
+
+<p align="center">
+  <strong>Assess • Measure • Report • Do not modify the source data</strong>
+</p>
+
 ## Purpose
 
 This document defines the Data Quality Assessment and Reporting Framework for the Banco de Moçambique synthetic banking data PoC on IOMETE.
