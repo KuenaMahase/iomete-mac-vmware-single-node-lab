@@ -1,0 +1,726 @@
+﻿banco_id;tipo_anomalia;id_registo;descricao
+BCO01;deposito_elevado;BCO01DEP000000356;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000001628;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000001977;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000002068;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000002288;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000002427;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000002588;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000002885;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000003419;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000003470;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000003724;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000004196;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000005048;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000005901;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000006324;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000006685;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000007562;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000007924;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000008717;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000009235;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000010524;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000010799;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000010904;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000010941;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000011748;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000011859;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000012274;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000013137;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000013271;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000014344;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000017408;Depósito muito elevado face ao perfil
+BCO01;deposito_elevado;BCO01DEP000017607;Depósito muito elevado face ao perfil
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000000078;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000000801;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000001761;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000001912;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000002711;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000003845;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000004308;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000004359;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000004934;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000005397;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000006152;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000006638;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000007564;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000007748;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000008604;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000008861;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000008910;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000009211;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000009436;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000010179;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000010259;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000010285;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000010731;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000010874;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000011581;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000011726;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000012108;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000013333;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000013533;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000013538;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000014305;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000014400;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000014412;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000015181;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000016085;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000016107;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000016117;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000016751;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000017285;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000017786;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000018103;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000018106;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000018177;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000018181;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000020380;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000021208;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000021482;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000021524;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000021620;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000022701;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000023438;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000024584;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000024749;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000024935;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000024945;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000024986;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000025347;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000025470;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000025548;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000026033;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000027476;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000027992;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000028277;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000028953;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000029197;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000030495;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000030527;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000031153;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000031198;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000031754;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000032046;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000032090;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000032515;Transacção POS anómala por valor/MCC
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000032629;Transacção fora do horário típico
+BCO01;fora_horario_valor_elevado;BCO01TPOS0000032915;Transacção fora do horário típico
+BCO01;valor_muito_elevado;BCO01TPOS0000034207;Transacção POS anómala por valor/MCC
+BCO01;valor_muito_elevado;BCO01TPOS0000034441;Transacção POS anómala por valor/MCC
+BCO01;balcao_valor_elevado;BCO01TIB0000000525;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000003319;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000004724;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000005389;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000007093;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000008016;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000008121;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000009196;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000010114;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000010869;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000012016;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000012319;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000013403;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000013915;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000014115;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000014569;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000015084;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000016959;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000017963;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000021251;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000022694;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000022774;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000024999;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000025797;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000026322;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000026919;Transacção intrabancária ao balcão de valor elevado
+BCO01;balcao_valor_elevado;BCO01TIB0000026929;Transacção intrabancária ao balcão de valor elevado
+BCO02;deposito_elevado;BCO02DEP000000848;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000003731;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000004199;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000005155;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000005707;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000006123;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000007371;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000008564;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000009315;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000010671;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000012440;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000012904;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000013810;Depósito muito elevado face ao perfil
+BCO02;deposito_elevado;BCO02DEP000014547;Depósito muito elevado face ao perfil
+BCO02;valor_muito_elevado;BCO02TPOS0000001209;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000001245;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000002007;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000002547;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000002645;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000003124;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000003534;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000003645;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000004204;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000004749;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000004788;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000004816;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000005409;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000006347;Transacção fora do horário típico
+BCO02;florista_valor_muito_elevado;BCO02TPOS0000006464;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000006725;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000006957;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000007318;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000008047;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000008408;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000008487;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000008760;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000008988;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000009497;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000009796;Transacção fora do horário típico
+BCO02;florista_valor_muito_elevado;BCO02TPOS0000011103;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000011852;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000012760;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000013156;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000013583;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000015660;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000015773;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000015830;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000016440;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000016520;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000016686;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000016767;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000016832;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000016906;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000016980;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000017189;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000017556;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000017593;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000017613;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000017705;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000018031;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000018056;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000018765;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000019093;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000019473;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000019703;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000019709;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000020285;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000020506;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000020745;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000023206;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000023211;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000023224;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000023463;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000023895;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000024067;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000024179;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000024419;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000024426;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000024625;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000024676;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000024939;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000026892;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000026988;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000027330;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000027661;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000027782;Transacção fora do horário típico
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000027956;Transacção fora do horário típico
+BCO02;valor_muito_elevado;BCO02TPOS0000028773;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000029640;Transacção POS anómala por valor/MCC
+BCO02;valor_muito_elevado;BCO02TPOS0000029789;Transacção POS anómala por valor/MCC
+BCO02;fora_horario_valor_elevado;BCO02TPOS0000029983;Transacção fora do horário típico
+BCO02;balcao_valor_elevado;BCO02TIB0000000344;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000000410;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000001227;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000004938;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000005589;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000005599;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000005828;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000006453;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000006960;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000007039;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000007167;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000007997;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000009948;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000010449;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000010787;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000012745;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000013394;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000013599;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000013651;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000013758;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000014339;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000014614;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000016481;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000017830;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000017992;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000019328;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000019619;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000021392;Transacção intrabancária ao balcão de valor elevado
+BCO02;balcao_valor_elevado;BCO02TIB0000021917;Transacção intrabancária ao balcão de valor elevado
+BCO03;deposito_elevado;BCO03DEP000000776;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000002338;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000004546;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000004921;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000007340;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000007535;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000007543;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000009096;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000010578;Depósito muito elevado face ao perfil
+BCO03;deposito_elevado;BCO03DEP000010686;Depósito muito elevado face ao perfil
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000000030;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000000472;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000000822;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000000969;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000001076;Transacção fora do horário típico
+BCO03;florista_valor_muito_elevado;BCO03TPOS0000002043;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000002241;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000002636;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000003141;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000003258;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000003686;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000003764;Transacção POS anómala por valor/MCC
+BCO03;florista_valor_muito_elevado;BCO03TPOS0000004189;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000004623;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000005313;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000005811;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000006046;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000007525;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000007635;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000007686;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000008364;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000008539;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000009148;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000009343;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000009390;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000009486;Transacção POS anómala por valor/MCC
+BCO03;florista_valor_muito_elevado;BCO03TPOS0000009797;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000011738;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000012365;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000012755;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000013389;Transacção fora do horário típico
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000013438;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000015032;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000017040;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000017296;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000017381;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000017675;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000017701;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000019052;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000019543;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000020435;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000021199;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000021300;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000021559;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000022101;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000022965;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000023325;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000023771;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000023813;Transacção fora do horário típico
+BCO03;valor_muito_elevado;BCO03TPOS0000024105;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000024307;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000024409;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000024934;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000024953;Transacção POS anómala por valor/MCC
+BCO03;valor_muito_elevado;BCO03TPOS0000025203;Transacção POS anómala por valor/MCC
+BCO03;fora_horario_valor_elevado;BCO03TPOS0000025895;Transacção fora do horário típico
+BCO03;balcao_valor_elevado;BCO03TIB0000000278;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000000843;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000001222;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000001613;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000004832;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000007329;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000009071;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000010000;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000010482;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000011818;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000012650;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000013447;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000014570;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000014998;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000015538;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000016287;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000016686;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000016922;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000018042;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000018193;Transacção intrabancária ao balcão de valor elevado
+BCO03;balcao_valor_elevado;BCO03TIB0000019392;Transacção intrabancária ao balcão de valor elevado
+BCO04;deposito_elevado;BCO04DEP000000048;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000000655;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000000970;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000001066;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000002780;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000002791;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000003556;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000004357;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000004687;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000004723;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000005703;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000005808;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000007424;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000007850;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000009103;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000009411;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000009480;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000009655;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000010870;Depósito muito elevado face ao perfil
+BCO04;deposito_elevado;BCO04DEP000011683;Depósito muito elevado face ao perfil
+BCO04;valor_muito_elevado;BCO04TPOS0000001584;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000001709;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000001748;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000002107;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000003199;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000003731;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000003905;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000004461;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000004833;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000005044;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000005442;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000006727;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000006918;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000007081;Transacção POS anómala por valor/MCC
+BCO04;florista_valor_muito_elevado;BCO04TPOS0000007198;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000007887;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000007926;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000008333;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000008340;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000009350;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000009711;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000009838;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000010346;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000011155;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000011593;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000011959;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000012778;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000012806;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000013651;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000014763;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000015438;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000016114;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000016480;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000016632;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000016901;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000017159;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000017799;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000017992;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000018223;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000018592;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000018783;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000018925;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000019760;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000020079;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000020595;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000021081;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000021496;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000022304;Transacção POS anómala por valor/MCC
+BCO04;valor_muito_elevado;BCO04TPOS0000022726;Transacção POS anómala por valor/MCC
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000023103;Transacção fora do horário típico
+BCO04;fora_horario_valor_elevado;BCO04TPOS0000023271;Transacção fora do horário típico
+BCO04;valor_muito_elevado;BCO04TPOS0000023990;Transacção POS anómala por valor/MCC
+BCO04;balcao_valor_elevado;BCO04TIB0000000058;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000000657;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000003545;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000004173;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000004186;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000005138;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000007154;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000007223;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000012307;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000012557;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000014501;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000014929;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000015246;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000016166;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000016577;Transacção intrabancária ao balcão de valor elevado
+BCO04;balcao_valor_elevado;BCO04TIB0000017109;Transacção intrabancária ao balcão de valor elevado
+BCO05;deposito_elevado;BCO05DEP000001077;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000001929;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000003599;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000003967;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000003987;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000007513;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000008584;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000008932;Depósito muito elevado face ao perfil
+BCO05;deposito_elevado;BCO05DEP000009019;Depósito muito elevado face ao perfil
+BCO05;valor_muito_elevado;BCO05TPOS0000000477;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000000781;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000000950;Transacção fora do horário típico
+BCO05;valor_muito_elevado;BCO05TPOS0000001540;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000001680;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000001996;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000002321;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000002874;Transacção fora do horário típico
+BCO05;valor_muito_elevado;BCO05TPOS0000003319;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000003637;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000003788;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000003834;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000004213;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000004379;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000004932;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000006505;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000006571;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000006619;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000006797;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000007075;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000008068;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000008123;Transacção fora do horário típico
+BCO05;valor_muito_elevado;BCO05TPOS0000008750;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000009689;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000010614;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000010987;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000011428;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000011460;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000011982;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000012335;Transacção fora do horário típico
+BCO05;valor_muito_elevado;BCO05TPOS0000012381;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000012971;Transacção fora do horário típico
+BCO05;valor_muito_elevado;BCO05TPOS0000014048;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000014528;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000014782;Transacção fora do horário típico
+BCO05;florista_valor_muito_elevado;BCO05TPOS0000015038;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000015254;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000016853;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000017214;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000017911;Transacção fora do horário típico
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000018181;Transacção fora do horário típico
+BCO05;florista_valor_muito_elevado;BCO05TPOS0000018570;Transacção POS anómala por valor/MCC
+BCO05;valor_muito_elevado;BCO05TPOS0000018751;Transacção POS anómala por valor/MCC
+BCO05;fora_horario_valor_elevado;BCO05TPOS0000018809;Transacção fora do horário típico
+BCO05;valor_muito_elevado;BCO05TPOS0000019376;Transacção POS anómala por valor/MCC
+BCO05;balcao_valor_elevado;BCO05TIB0000002023;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000002108;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000002720;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000003213;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000003281;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000003424;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000004654;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000004836;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000006177;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000006253;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000007085;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000008490;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000012005;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000012177;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000013459;Transacção intrabancária ao balcão de valor elevado
+BCO05;balcao_valor_elevado;BCO05TIB0000014674;Transacção intrabancária ao balcão de valor elevado
+BCO06;deposito_elevado;BCO06DEP000000511;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000001112;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000002693;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000003086;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000003401;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000004879;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000006048;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000006283;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000006590;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000008177;Depósito muito elevado face ao perfil
+BCO06;deposito_elevado;BCO06DEP000008782;Depósito muito elevado face ao perfil
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000000486;Transacção fora do horário típico
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000000846;Transacção fora do horário típico
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000001325;Transacção fora do horário típico
+BCO06;valor_muito_elevado;BCO06TPOS0000001679;Transacção POS anómala por valor/MCC
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000002197;Transacção fora do horário típico
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000002240;Transacção fora do horário típico
+BCO06;valor_muito_elevado;BCO06TPOS0000002269;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000003263;Transacção POS anómala por valor/MCC
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000004566;Transacção fora do horário típico
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000004644;Transacção fora do horário típico
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000004832;Transacção fora do horário típico
+BCO06;valor_muito_elevado;BCO06TPOS0000005241;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000005308;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000005363;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000005878;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000005955;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000006642;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000007112;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000008289;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000008840;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000009414;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000009987;Transacção POS anómala por valor/MCC
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000010366;Transacção fora do horário típico
+BCO06;valor_muito_elevado;BCO06TPOS0000010527;Transacção POS anómala por valor/MCC
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000011070;Transacção fora do horário típico
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000011515;Transacção fora do horário típico
+BCO06;florista_valor_muito_elevado;BCO06TPOS0000012144;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000012731;Transacção POS anómala por valor/MCC
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000012771;Transacção fora do horário típico
+BCO06;valor_muito_elevado;BCO06TPOS0000012820;Transacção POS anómala por valor/MCC
+BCO06;florista_valor_muito_elevado;BCO06TPOS0000013360;Transacção POS anómala por valor/MCC
+BCO06;valor_muito_elevado;BCO06TPOS0000013903;Transacção POS anómala por valor/MCC
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000013996;Transacção fora do horário típico
+BCO06;valor_muito_elevado;BCO06TPOS0000014609;Transacção POS anómala por valor/MCC
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000015811;Transacção fora do horário típico
+BCO06;fora_horario_valor_elevado;BCO06TPOS0000017015;Transacção fora do horário típico
+BCO06;valor_muito_elevado;BCO06TPOS0000017588;Transacção POS anómala por valor/MCC
+BCO06;balcao_valor_elevado;BCO06TIB0000000595;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000000646;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000001646;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000002219;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000002222;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000002401;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000002628;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000003238;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000003439;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000003947;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000004450;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000004668;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000006892;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000007518;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000007763;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000010702;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000011325;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000011797;Transacção intrabancária ao balcão de valor elevado
+BCO06;balcao_valor_elevado;BCO06TIB0000013019;Transacção intrabancária ao balcão de valor elevado
+BCO07;deposito_elevado;BCO07DEP000001326;Depósito muito elevado face ao perfil
+BCO07;deposito_elevado;BCO07DEP000001384;Depósito muito elevado face ao perfil
+BCO07;deposito_elevado;BCO07DEP000002003;Depósito muito elevado face ao perfil
+BCO07;deposito_elevado;BCO07DEP000002096;Depósito muito elevado face ao perfil
+BCO07;deposito_elevado;BCO07DEP000005118;Depósito muito elevado face ao perfil
+BCO07;deposito_elevado;BCO07DEP000005551;Depósito muito elevado face ao perfil
+BCO07;deposito_elevado;BCO07DEP000007046;Depósito muito elevado face ao perfil
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000000241;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000000916;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000000993;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000001842;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000002149;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000002193;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000002758;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000002995;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000003819;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000004580;Transacção fora do horário típico
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000004842;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000006913;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000007064;Transacção fora do horário típico
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000007136;Transacção fora do horário típico
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000007385;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000007514;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000007566;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000007567;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000007948;Transacção fora do horário típico
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000008557;Transacção fora do horário típico
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000008726;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000009171;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000009210;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000009775;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000010450;Transacção fora do horário típico
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000010499;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000011097;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000011200;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000012145;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000012524;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000012655;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000012862;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000013847;Transacção POS anómala por valor/MCC
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000014090;Transacção fora do horário típico
+BCO07;fora_horario_valor_elevado;BCO07TPOS0000014111;Transacção fora do horário típico
+BCO07;valor_muito_elevado;BCO07TPOS0000015093;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000015270;Transacção POS anómala por valor/MCC
+BCO07;valor_muito_elevado;BCO07TPOS0000015616;Transacção POS anómala por valor/MCC
+BCO07;balcao_valor_elevado;BCO07TIB0000003985;Transacção intrabancária ao balcão de valor elevado
+BCO07;balcao_valor_elevado;BCO07TIB0000004553;Transacção intrabancária ao balcão de valor elevado
+BCO07;balcao_valor_elevado;BCO07TIB0000007907;Transacção intrabancária ao balcão de valor elevado
+BCO07;balcao_valor_elevado;BCO07TIB0000008298;Transacção intrabancária ao balcão de valor elevado
+BCO07;balcao_valor_elevado;BCO07TIB0000009386;Transacção intrabancária ao balcão de valor elevado
+BCO07;balcao_valor_elevado;BCO07TIB0000011100;Transacção intrabancária ao balcão de valor elevado
+BCO07;balcao_valor_elevado;BCO07TIB0000011789;Transacção intrabancária ao balcão de valor elevado
+BCO08;valor_muito_elevado;BCO08TPOS0000000092;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000000097;Transacção POS anómala por valor/MCC
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000000566;Transacção fora do horário típico
+BCO08;valor_muito_elevado;BCO08TPOS0000000619;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000000690;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000000944;Transacção POS anómala por valor/MCC
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000001544;Transacção fora do horário típico
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000002153;Transacção fora do horário típico
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000002600;Transacção fora do horário típico
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000002770;Transacção fora do horário típico
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000003544;Transacção fora do horário típico
+BCO08;valor_muito_elevado;BCO08TPOS0000004233;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000004329;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000005602;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000005840;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000005848;Transacção POS anómala por valor/MCC
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000006124;Transacção fora do horário típico
+BCO08;valor_muito_elevado;BCO08TPOS0000006620;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000006914;Transacção POS anómala por valor/MCC
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000007164;Transacção fora do horário típico
+BCO08;valor_muito_elevado;BCO08TPOS0000009043;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000009729;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000010775;Transacção POS anómala por valor/MCC
+BCO08;fora_horario_valor_elevado;BCO08TPOS0000010843;Transacção fora do horário típico
+BCO08;valor_muito_elevado;BCO08TPOS0000011165;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000011673;Transacção POS anómala por valor/MCC
+BCO08;valor_muito_elevado;BCO08TPOS0000011845;Transacção POS anómala por valor/MCC
+BCO08;balcao_valor_elevado;BCO08TIB0000004225;Transacção intrabancária ao balcão de valor elevado
+BCO08;balcao_valor_elevado;BCO08TIB0000005684;Transacção intrabancária ao balcão de valor elevado
+BCO08;balcao_valor_elevado;BCO08TIB0000007422;Transacção intrabancária ao balcão de valor elevado
+BCO09;deposito_elevado;BCO09DEP000000073;Depósito muito elevado face ao perfil
+BCO09;deposito_elevado;BCO09DEP000003290;Depósito muito elevado face ao perfil
+BCO09;deposito_elevado;BCO09DEP000003413;Depósito muito elevado face ao perfil
+BCO09;deposito_elevado;BCO09DEP000003938;Depósito muito elevado face ao perfil
+BCO09;deposito_elevado;BCO09DEP000004761;Depósito muito elevado face ao perfil
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000000054;Transacção fora do horário típico
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000000963;Transacção fora do horário típico
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000000990;Transacção fora do horário típico
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000001033;Transacção fora do horário típico
+BCO09;valor_muito_elevado;BCO09TPOS0000001072;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000001253;Transacção POS anómala por valor/MCC
+BCO09;florista_valor_muito_elevado;BCO09TPOS0000001296;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000001586;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000002069;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000002104;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000002367;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000002600;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000002750;Transacção POS anómala por valor/MCC
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000002939;Transacção fora do horário típico
+BCO09;valor_muito_elevado;BCO09TPOS0000002944;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000004629;Transacção POS anómala por valor/MCC
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000005208;Transacção fora do horário típico
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000005552;Transacção fora do horário típico
+BCO09;valor_muito_elevado;BCO09TPOS0000005656;Transacção POS anómala por valor/MCC
+BCO09;florista_valor_muito_elevado;BCO09TPOS0000006117;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000006719;Transacção POS anómala por valor/MCC
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000007621;Transacção fora do horário típico
+BCO09;valor_muito_elevado;BCO09TPOS0000007773;Transacção POS anómala por valor/MCC
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000007906;Transacção fora do horário típico
+BCO09;valor_muito_elevado;BCO09TPOS0000008087;Transacção POS anómala por valor/MCC
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000008302;Transacção fora do horário típico
+BCO09;valor_muito_elevado;BCO09TPOS0000009571;Transacção POS anómala por valor/MCC
+BCO09;valor_muito_elevado;BCO09TPOS0000009662;Transacção POS anómala por valor/MCC
+BCO09;fora_horario_valor_elevado;BCO09TPOS0000009910;Transacção fora do horário típico
+BCO09;balcao_valor_elevado;BCO09TIB0000000748;Transacção intrabancária ao balcão de valor elevado
+BCO09;balcao_valor_elevado;BCO09TIB0000001593;Transacção intrabancária ao balcão de valor elevado
+BCO09;balcao_valor_elevado;BCO09TIB0000002458;Transacção intrabancária ao balcão de valor elevado
+BCO09;balcao_valor_elevado;BCO09TIB0000004164;Transacção intrabancária ao balcão de valor elevado
+BCO09;balcao_valor_elevado;BCO09TIB0000005711;Transacção intrabancária ao balcão de valor elevado
+BCO09;balcao_valor_elevado;BCO09TIB0000005956;Transacção intrabancária ao balcão de valor elevado
+BCO10;deposito_elevado;BCO10DEP000000326;Depósito muito elevado face ao perfil
+BCO10;deposito_elevado;BCO10DEP000001036;Depósito muito elevado face ao perfil
+BCO10;valor_muito_elevado;BCO10TPOS0000000116;Transacção POS anómala por valor/MCC
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000000648;Transacção fora do horário típico
+BCO10;valor_muito_elevado;BCO10TPOS0000000678;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000000809;Transacção POS anómala por valor/MCC
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000000812;Transacção fora do horário típico
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000000852;Transacção fora do horário típico
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000000872;Transacção fora do horário típico
+BCO10;valor_muito_elevado;BCO10TPOS0000001319;Transacção POS anómala por valor/MCC
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000001802;Transacção fora do horário típico
+BCO10;valor_muito_elevado;BCO10TPOS0000002043;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000002290;Transacção POS anómala por valor/MCC
+BCO10;florista_valor_muito_elevado;BCO10TPOS0000002901;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000003160;Transacção POS anómala por valor/MCC
+BCO10;florista_valor_muito_elevado;BCO10TPOS0000003216;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000004753;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000005557;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000005658;Transacção POS anómala por valor/MCC
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000005858;Transacção fora do horário típico
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000005902;Transacção fora do horário típico
+BCO10;fora_horario_valor_elevado;BCO10TPOS0000006154;Transacção fora do horário típico
+BCO10;valor_muito_elevado;BCO10TPOS0000006247;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000006612;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000006920;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000007264;Transacção POS anómala por valor/MCC
+BCO10;valor_muito_elevado;BCO10TPOS0000007648;Transacção POS anómala por valor/MCC
+BCO10;balcao_valor_elevado;BCO10TIB0000001996;Transacção intrabancária ao balcão de valor elevado
+BCO10;balcao_valor_elevado;BCO10TIB0000002078;Transacção intrabancária ao balcão de valor elevado
+BCO10;balcao_valor_elevado;BCO10TIB0000002454;Transacção intrabancária ao balcão de valor elevado
+BCO10;balcao_valor_elevado;BCO10TIB0000002597;Transacção intrabancária ao balcão de valor elevado
+BCO10;balcao_valor_elevado;BCO10TIB0000003499;Transacção intrabancária ao balcão de valor elevado
+BCO10;balcao_valor_elevado;BCO10TIB0000003839;Transacção intrabancária ao balcão de valor elevado
+BCO10;balcao_valor_elevado;BCO10TIB0000004883;Transacção intrabancária ao balcão de valor elevado
+BCO10;balcao_valor_elevado;BCO10TIB0000005327;Transacção intrabancária ao balcão de valor elevado

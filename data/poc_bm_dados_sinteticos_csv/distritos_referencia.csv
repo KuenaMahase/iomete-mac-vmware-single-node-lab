@@ -1,0 +1,456 @@
+﻿cod_distrito;Provincia;Distrito;cod_posto;Posto
+0101;Niassa;Lichinga;010101;Sanjala
+0101;Niassa;Lichinga;010102;Chiuaula
+0101;Niassa;Lichinga;010103;Massenger
+0101;Niassa;Lichinga;010104;Lulimile
+0101;Niassa;Lichinga;010105;Meponda
+0101;Niassa;Lichinga;010106;Lussanhando
+0102;Niassa;Cuamba;010201;Cidade de Cuamba
+0102;Niassa;Cuamba;010202;Etatara
+0102;Niassa;Cuamba;010203;Lúrio
+0102;Niassa;Cuamba;010204;Mepica
+0103;Niassa;Lago;010301;Metangula
+0103;Niassa;Lago;010302;Cóbue
+0103;Niassa;Lago;010304;Maniamba
+0103;Niassa;Lago;010305;Lunho
+0103;Niassa;Lago;010306;Meluluca
+0104;Niassa;Chimbunila;010401;Chimbunila
+0104;Niassa;Chimbunila;010402;Lione
+0105;Niassa;Majune;010501;Malanga
+0105;Niassa;Majune;010502;Muaquia
+0105;Niassa;Majune;010503;Nairrubi
+0106;Niassa;Mandimba;010601;Lissiete
+0106;Niassa;Mandimba;010602;Mitande
+0107;Niassa;Marrupa;010701;Marrupa-Sede
+0107;Niassa;Marrupa;010702;Marrangira
+0107;Niassa;Marrupa;010703;Nungo
+0108;Niassa;Maúa;010801;Maúa
+0108;Niassa;Maúa;010802;Maiaca
+0109;Niassa;Mavago;010901;Mavago-Sede
+0109;Niassa;Mavago;010902;Msawize
+0110;Niassa;Mecanhelas;011001;Insaca
+0110;Niassa;Mecanhelas;011002;Chiuta
+0111;Niassa;Mecula;011101;Mecula-Sede
+0111;Niassa;Mecula;011102;Matondovela
+0112;Niassa;Metarica;011201;Namicundi
+0112;Niassa;Metarica;011202;Nacumua
+0113;Niassa;Muembe;011301;Muembe
+0113;Niassa;Muembe;011302;Chiconono
+0114;Niassa;Ngauma;011401;Massangulo (Ngauma)
+0114;Niassa;Ngauma;011402;Itepela
+0115;Niassa;Nipepe;011501;Nipepe-Sede
+0115;Niassa;Nipepe;011502;Muluco
+0116;Niassa;Sanga;011601;Unango
+0116;Niassa;Sanga;011602;Lussimbesse
+0116;Niassa;Sanga;011603;Macaloge
+0116;Niassa;Sanga;011604;Matchedje
+0202;Cabo Delgado;Ancuabe;020201;Ancuabe Sede
+0202;Cabo Delgado;Ancuabe;020202;Metoro
+0202;Cabo Delgado;Ancuabe;020203;Meza
+0203;Cabo Delgado;Balama;020301;Balama Sede
+0203;Cabo Delgado;Balama;020301;Muripa
+0203;Cabo Delgado;Balama;020302;Impire
+0203;Cabo Delgado;Balama;020303;Kwekwe
+0203;Cabo Delgado;Balama;020304;Mavala
+0204;Cabo Delgado;Chiure;020401;Chiure Sede
+0204;Cabo Delgado;Chiure;020403;Chiure Velho
+0204;Cabo Delgado;Chiure;020403;Katapua
+0204;Cabo Delgado;Chiure;020404;Mazeze
+0204;Cabo Delgado;Chiure;020405;Namogelia
+0204;Cabo Delgado;Chiure;020406;Ocua
+0205;Cabo Delgado;Ibo;020501;Ibo Sede
+0205;Cabo Delgado;Ibo;020502;Quirimba
+0206;Cabo Delgado;Macomia;020601;Macomia-Sede
+0206;Cabo Delgado;Macomia;020602;Chai
+0206;Cabo Delgado;Macomia;020603;Mucojo
+0206;Cabo Delgado;Macomia;020604;Quiterajo
+0207;Cabo Delgado;Mecufi;020701;Mecufi Sede
+0207;Cabo Delgado;Mecufi;020702;Murrebue
+0208;Cabo Delgado;Meluco;020801;Meluco Sede
+0208;Cabo Delgado;Meluco;020802;Muaguide
+0209;Cabo Delgado;Mocimboa da Praia;020901;Mocimboa da Praia sede
+0209;Cabo Delgado;Mocimboa da Praia;020902;Diaca
+0209;Cabo Delgado;Mocimboa da Praia;020903;Mbau
+0210;Cabo Delgado;Montepuez;021001;Cidade de Montepuez
+0210;Cabo Delgado;Montepuez;021002;Mapupulo
+0210;Cabo Delgado;Montepuez;021003;Mirate Sede
+0210;Cabo Delgado;Montepuez;021004;Nairoto
+0210;Cabo Delgado;Montepuez;021005;Namanhumbir
+0211;Cabo Delgado;Mueda;021101;Mueda-Sede
+0211;Cabo Delgado;Mueda;021103;Chapa
+0211;Cabo Delgado;Mueda;021104;Negomano
+0211;Cabo Delgado;Mueda;021105;N'gapa
+0211;Cabo Delgado;Mueda;021107;Namaua
+0211;Cabo Delgado;Mueda;021108;Imbuho Sede
+0212;Cabo Delgado;Muidumbe;021201;Muambula
+0212;Cabo Delgado;Muidumbe;021202;Chitunda
+0212;Cabo Delgado;Muidumbe;021203;Miteda
+0213;Cabo Delgado;Namuno;021301;Meloco
+0213;Cabo Delgado;Namuno;021301;Namuno sede
+0213;Cabo Delgado;Namuno;021302;Hucula
+0213;Cabo Delgado;Namuno;021303;Machoca
+0213;Cabo Delgado;Namuno;021305;Ncumpe
+0213;Cabo Delgado;Namuno;021306;Papai
+0214;Cabo Delgado;Nangade;021401;Nangade Sede
+0214;Cabo Delgado;Nangade;021402;Ntamba
+0215;Cabo Delgado;Palma;021501;Palma
+0215;Cabo Delgado;Palma;021502;Olumbe
+0215;Cabo Delgado;Palma;021503;Pundanhar
+0215;Cabo Delgado;Palma;021504;Quionga
+0216;Cabo Delgado;Metuge;021601;Metuge Sede
+0216;Cabo Delgado;Metuge;021601;Mieze
+0217;Cabo Delgado;Quissanga;021701;Quissanga
+0217;Cabo Delgado;Quissanga;021702;Bilibiza
+0217;Cabo Delgado;Quissanga;021703;Mahate
+0301;Nampula;Nampula;030101;Urbano Central
+0301;Nampula;Nampula;030102;Muatala
+0301;Nampula;Nampula;030103;Muhala
+0301;Nampula;Nampula;030104;Namicopo
+0301;Nampula;Nampula;030105;Napipine
+0301;Nampula;Nampula;030106;Natikire
+0301;Nampula;Nampula;030107;Anchilo
+0302;Nampula;Angoche;030201;Cidade De Angoche
+0302;Nampula;Angoche;030202;Aube
+0302;Nampula;Angoche;030203;Namaponda
+0302;Nampula;Angoche;030204;Boila-Nametoria
+0303;Nampula;Erati;030301;Namapa-Sede
+0303;Nampula;Erati;030302;Alua
+0303;Nampula;Erati;030303;Namiroa
+0304;Nampula;Ilha de Mocambique;030401;Ilha De Mocambique
+0304;Nampula;Ilha de Mocambique;030402;Lumbo
+0305;Nampula;Lalaua;030501;Lalaua- Sede
+0305;Nampula;Lalaua;030502;Meti
+0306;Nampula;Malema;030601;Malema/Canhunha
+0306;Nampula;Malema;030602;Chilulo
+0306;Nampula;Malema;030603;Mutuali
+0307;Nampula;Meconta;030701;Meconta
+0307;Nampula;Meconta;030702;Corrane
+0307;Nampula;Meconta;030703;Namialo
+0307;Nampula;Meconta;030704;7 De Abril
+0308;Nampula;Mecuburi;030801;Mecuburi
+0308;Nampula;Mecuburi;030801;Mecuburi Sede
+0308;Nampula;Mecuburi;030802;Milhana
+0308;Nampula;Mecuburi;030803;Muite
+0308;Nampula;Mecuburi;030804;Namina
+0309;Nampula;Memba;030901;Memba
+0309;Nampula;Memba;030902;Chipene
+0309;Nampula;Memba;030903;Lurio
+0309;Nampula;Memba;030904;Mazua
+0310;Nampula;Mogincual;031001;Naminge
+0310;Nampula;Mogincual;031002;Quixaxe
+0311;Nampula;Mogovolas;031101;Nametil
+0311;Nampula;Mogovolas;031101;Nametil Sede
+0311;Nampula;Mogovolas;031102;Calipo
+0311;Nampula;Mogovolas;031103;Ilute
+0311;Nampula;Mogovolas;031104;Muatua
+0311;Nampula;Mogovolas;031105;Nanhupo Rio
+0312;Nampula;Moma;031201;Macone Sede
+0312;Nampula;Moma;031202;Chalaua
+0313;Nampula;Monapo;031301;Monapo Sede
+0313;Nampula;Monapo;031302;Ituculo
+0313;Nampula;Monapo;031303;Netia
+0314;Nampula;Mossuril;031401;Mossuril Sede
+0314;Nampula;Mossuril;031402;Lunga
+0314;Nampula;Mossuril;031403;Matibane
+0315;Nampula;Muecate;031501;Muecate
+0315;Nampula;Muecate;031501;Muecate-Sede
+0315;Nampula;Muecate;031502;Imala
+0315;Nampula;Muecate;031503;Mucoluane
+0316;Nampula;Murrupula;031601;Murrupula
+0316;Nampula;Murrupula;031602;Chinga
+0316;Nampula;Murrupula;031603;Nihessiue
+0317;Nampula;Nacala Porto;031701;Maiaia
+0317;Nampula;Nacala Porto;031701;Muanona
+0317;Nampula;Nacala Porto;031701;Mutiva
+0317;Nampula;Nacala Porto;031701;Nacala
+0317;Nampula;Nacala Porto;031702;Muanona
+0317;Nampula;Nacala Porto;031703;Muanona
+0318;Nampula;Nacala-A-Velha;031801;Nacala-A-Velha
+0318;Nampula;Nacala-A-Velha;031802;Covo
+0318;Nampula;Nacala-A-Velha;031803;Barragem
+0319;Nampula;Nacaroa;031901;Nacaroa
+0319;Nampula;Nacaroa;031902;Intete
+0319;Nampula;Nacaroa;031903;Saua-Saua
+0320;Nampula;Rapale;032001;Rapale
+0320;Nampula;Rapale;032003;Mutivaze
+0320;Nampula;Rapale;032004;Namaita
+0321;Nampula;Ribáuè;032101;Ribáuè
+0321;Nampula;Ribáuè;032102;Cunle
+0321;Nampula;Ribáuè;032103;Iapala
+0322;Nampula;Larde;032201;Larde
+0322;Nampula;Larde;032202;Mucuali
+0323;Nampula;Liupo;032301;Liupo
+0323;Nampula;Liupo;032302;Quinga
+0401;Zambezia;Quelimane;040101;Urbano 01
+0401;Zambezia;Quelimane;040102;Urbano 02
+0401;Zambezia;Quelimane;040103;Urbano 03
+0401;Zambezia;Quelimane;040104;Urbano 04
+0401;Zambezia;Quelimane;040105;Urbano 05
+0401;Zambezia;Quelimane;040106;Maquival
+0402;Zambezia;Alto Molocue;040201;Alto Molocue
+0402;Zambezia;Alto Molocue;040202;Nauela
+0403;Zambezia;Chinde;040301;Chinde-Sede
+0403;Zambezia;Chinde;040303;Micaune
+0404;Zambezia;Gile;040401;Gile
+0404;Zambezia;Gile;040402;Alto Ligonha
+0405;Zambezia;Gurue;040501;Cidade de Gurue
+0405;Zambezia;Gurue;040502;Lioma
+0405;Zambezia;Gurue;040503;Mepuagiua
+0406;Zambezia;Ile;040601;Ile
+0406;Zambezia;Ile;040603;Socone
+0407;Zambezia;Inhassunge;040701;Mucupia
+0407;Zambezia;Inhassunge;040702;Gonhane
+0408;Zambezia;Lugela;040801;Lugela-sede
+0408;Zambezia;Lugela;040802;Tacuane
+0408;Zambezia;Lugela;040803;Munhamade
+0408;Zambezia;Lugela;040804;Muabanama
+0409;Zambezia;Maganja da Costa;040901;Maganja da Costa Sede
+0409;Zambezia;Maganja da Costa;040904;Nante
+0410;Zambezia;Milange;041001;Milange sede
+0410;Zambezia;Milange;041002;Majaua
+0410;Zambezia;Milange;041004;Mongue
+0411;Zambezia;Mocuba;041101;Cidade de Mocuba
+0411;Zambezia;Mocuba;041102;Mugeba
+0411;Zambezia;Mocuba;041103;Namanjavira
+0412;Zambezia;Mopeia;041201;Mopeia
+0412;Zambezia;Mopeia;041202;Campo
+0413;Zambezia;Morrumbala;041301;Morrumbala-Sede
+0413;Zambezia;Morrumbala;041302;Chire
+0413;Zambezia;Morrumbala;041304;Megaza
+0414;Zambezia;Namacurra;041401;Namacurra sede
+0414;Zambezia;Namacurra;041402;Macuse
+0414;Zambezia;Namacurra;041403;Malei
+0415;Zambezia;Namarroi;041501;Namarroi
+0415;Zambezia;Namarroi;041502;Regone
+0416;Zambezia;Nicoadala;041601;Nicoadala sede
+0417;Zambezia;Pebane;041701;Pebane-Sede
+0417;Zambezia;Pebane;041702;Mulela (Mualama)
+0417;Zambezia;Pebane;041703;Naburi
+0418;Zambezia;Derre;041801;Machindo
+0418;Zambezia;Derre;041802;Guerissa
+0419;Zambezia;Luabo;041901;Samora Machel
+0419;Zambezia;Luabo;041902;Chimbadzo
+0420;Zambezia;Mocubela;042001;Mocubela
+0420;Zambezia;Mocubela;042002;Bajone
+0421;Zambezia;Molumbo;042101;Molumbo sede
+0421;Zambezia;Molumbo;042102;Corromana
+0422;Zambezia;Mulevala;042201;M'bauane
+0422;Zambezia;Mulevala;042202;Chiraco
+0502;Tete;Angónia;050201;Ulongoé
+0502;Tete;Angónia;050202;Domue
+0503;Tete;Cahora-Bassa;050301;Songo
+0503;Tete;Cahora-Bassa;050302;Chintholo
+0503;Tete;Cahora-Bassa;050303;Chitima
+0504;Tete;Changara;050401;Luenha
+0504;Tete;Changara;050402;Chioco
+0505;Tete;Chifunde;050501;Chifunde
+0505;Tete;Chifunde;050502;Mualadzi
+0505;Tete;Chifunde;050503;Nsadzo
+0506;Tete;Chiúta;050601;Kazula
+0506;Tete;Chiúta;050602;Manje
+0507;Tete;Macanga;050701;Furancungo
+0507;Tete;Macanga;050702;Chidzolomondo
+0508;Tete;Magoe;050801;Mphende
+0508;Tete;Magoe;050802;Chinthopo
+0508;Tete;Magoe;050803;Mucumbura
+0509;Tete;Marávia;050901;Chiputo
+0509;Tete;Marávia;050902;Fingoé
+0509;Tete;Marávia;050903;Malowera
+0509;Tete;Marávia;050904;Chipera
+0510;Tete;Moatize;051001;Moatize
+0510;Tete;Moatize;051002;Kambulatsitsi
+0510;Tete;Moatize;051003;Zobue
+0511;Tete;Mutarara;051101;Nhamayabue
+0511;Tete;Mutarara;051102;Charre
+0511;Tete;Mutarara;051104;Inhangoma
+0512;Tete;Tsangano;051201;Ntengo-Wambalame
+0512;Tete;Tsangano;051202;Tsangano
+0513;Tete;Zumbo;051301;Zumbo
+0513;Tete;Zumbo;051302;Muze
+0513;Tete;Zumbo;051303;Zambue
+0514;Tete;Doa;051401;Doa
+0514;Tete;Doa;051402;Chueza
+0515;Tete;Marara;051501;Marara
+0515;Tete;Marara;051502;Mufa Boroma
+0601;Manica;Chimoio;060101;Urbano N°1
+0601;Manica;Chimoio;060102;Urbano N°2
+0601;Manica;Chimoio;060103;Urbano N°3
+0602;Manica;Barue;060201;Catandica
+0602;Manica;Barue;060202;Choa
+0602;Manica;Barue;060203;Nhampassa
+0603;Manica;Gondola;060301;Gondola
+0603;Manica;Gondola;060302;Amatongas
+0603;Manica;Gondola;060303;Cafumpe
+0603;Manica;Gondola;060304;Inchope
+0604;Manica;Guro;060401;Guro-Sede
+0604;Manica;Guro;060402;Mandie
+0604;Manica;Guro;060404;Mungari
+0604;Manica;Guro;060405;Nhamassonge
+0605;Manica;Machaze;060501;Chitobe
+0605;Manica;Machaze;060502;Save
+0606;Manica;Macossa;060601;Macossa Sede
+0606;Manica;Macossa;060602;Nguawala
+0606;Manica;Macossa;060603;Nhamagua
+0607;Manica;Manica;060701;Municipio de Manica
+0607;Manica;Manica;060702;Machipanda
+0607;Manica;Manica;060703;Messica
+0607;Manica;Manica;060704;Mavonde
+0608;Manica;Mossurize;060801;Espungabera
+0608;Manica;Mossurize;060802;Chiurairue
+0608;Manica;Mossurize;060803;Dacata
+0608;Manica;Mossurize;060803;Dacate
+0609;Manica;Sussundenga;060901;Sussundenga-Sede
+0609;Manica;Sussundenga;060902;Dombe
+0609;Manica;Sussundenga;060903;Muoha
+0609;Manica;Sussundenga;060904;Rotanda
+0610;Manica;Tambara;061001;Nhacolo
+0610;Manica;Tambara;061002;Buzua
+0610;Manica;Tambara;061003;Nhacafula
+0611;Manica;Macate;061101;Macate-Sede
+0611;Manica;Macate;061102;Zembe
+0612;Manica;Vanduzi;061201;Vanduzi
+0612;Manica;Vanduzi;061202;Matsinho
+0701;Sofala;Cidade da Beira;070101;Urbano 1
+0701;Sofala;Cidade da Beira;070102;Urbano 2
+0701;Sofala;Cidade da Beira;070103;Urbano 3
+0701;Sofala;Cidade da Beira;070104;Urbano 4
+0701;Sofala;Cidade da Beira;070105;Urbano 5
+0702;Sofala;Buzi;070201;Buzi
+0702;Sofala;Buzi;070202;Estaquinha
+0702;Sofala;Buzi;070203;Nova Sofala
+0703;Sofala;Caia;070301;Caia
+0703;Sofala;Caia;070301;Ndoro
+0703;Sofala;Caia;070302;Murraca
+0703;Sofala;Caia;070303;Sena
+0704;Sofala;Chemba;070401;Chemba
+0704;Sofala;Chemba;070402;Chiramba
+0704;Sofala;Chemba;070403;Mulima
+0705;Sofala;Cheringoma;070501;Inhaminga
+0705;Sofala;Cheringoma;070502;Inhamitanga
+0706;Sofala;Chibabava;070601;Chibabava
+0706;Sofala;Chibabava;070602;Goonda
+0706;Sofala;Chibabava;070603;Muxungue
+0707;Sofala;Dondo;070701;Cidade de Dondo
+0707;Sofala;Dondo;070702;Mafambisse
+0707;Sofala;Dondo;070703;Savane
+0708;Sofala;Gorongosa;070801;Gorongosa
+0708;Sofala;Gorongosa;070802;Canda
+0708;Sofala;Gorongosa;070803;Vunduzi
+0709;Sofala;Machanga;070901;Machanga
+0709;Sofala;Machanga;070902;Divinhe
+0709;Sofala;Machanga;070903;Chiloane
+0710;Sofala;Maringue;071001;Maringue
+0710;Sofala;Maringue;071002;Canxixe
+0710;Sofala;Maringue;071003;Subue
+0711;Sofala;Marromeu;071101;Marromeu
+0711;Sofala;Marromeu;071102;Chupanga
+0711;Sofala;Marromeu;071103;Malingapansi
+0712;Sofala;Muanza;071201;Muanza
+0712;Sofala;Muanza;071202;Galinha
+0713;Sofala;Nhamatanda;071301;Nhamatanda
+0713;Sofala;Nhamatanda;071302;Tica
+0802;Inhambane;Funhalouro;080201;Funhalouro
+0802;Inhambane;Funhalouro;080202;Tome
+0803;Inhambane;Govuro;080301;Nova Mambone
+0803;Inhambane;Govuro;080302;Save
+0804;Inhambane;Homoine;080401;Homoine-sede
+0804;Inhambane;Homoine;080402;Pembe
+0805;Inhambane;Inharrime;080501;Inharrime Sede
+0805;Inhambane;Inharrime;080502;Mucumbi
+0806;Inhambane;Inhassoro;080601;Inhassoro
+0806;Inhambane;Inhassoro;080602;Bazaruto
+0807;Inhambane;Jangamo;080701;Jangamo
+0807;Inhambane;Jangamo;080702;Cumbana
+0808;Inhambane;Mabote;080801;Mabote
+0808;Inhambane;Mabote;080802;Zimane
+0808;Inhambane;Mabote;080803;Zinave
+0809;Inhambane;Massinga;080901;Massinga
+0809;Inhambane;Massinga;080902;Chicomo
+0811;Inhambane;Morrumbene;081101;Morrumbene
+0811;Inhambane;Morrumbene;081102;Mocoduene
+0812;Inhambane;Panda;081201;Panda
+0812;Inhambane;Panda;081202;Mawayela
+0812;Inhambane;Panda;081203;Urrene
+0813;Inhambane;Vilankulo;081301;Vilankulo
+0813;Inhambane;Vilankulo;081302;Mapinhane
+0814;Inhambane;Zavala;081401;Quissico
+0814;Inhambane;Zavala;081402;Zandamela
+0901;Gaza;Xai-Xai;090101;Municipal Sede
+0901;Gaza;Xai-Xai;090102;Inhamissa
+0901;Gaza;Xai-Xai;090103;Patrice Lumumba
+0901;Gaza;Xai-Xai;090104;Praia
+0901;Gaza;Xai-Xai;090105;Chilaulene
+0902;Gaza;Bilene;090201;Municipio da Macia
+0902;Gaza;Bilene;090202;Incaia
+0902;Gaza;Bilene;090203;Mazivila
+0902;Gaza;Bilene;090204;Messano
+0902;Gaza;Bilene;090205;Municipio da Praia de Bilene
+0902;Gaza;Bilene;090206;Macuane
+0903;Gaza;Chibuto;090301;Cidade de Chibuto
+0903;Gaza;Chibuto;090302;Alto Changane
+0903;Gaza;Chibuto;090303;Tchaimite
+0903;Gaza;Chibuto;090304;Changanine
+0903;Gaza;Chibuto;090305;Godide
+0903;Gaza;Chibuto;090306;Malehice
+0904;Gaza;Chicualacuala;090401;Eduardo Mondlane
+0904;Gaza;Chicualacuala;090403;Pafuri
+0905;Gaza;Chigubo;090501;Chigubo Sede
+0905;Gaza;Chigubo;090502;Ndindiza
+0906;Gaza;Chokwe;090601;Cidade  de Chokwe
+0906;Gaza;Chokwe;090602;Lionde
+0906;Gaza;Chokwe;090603;Macarretane
+0906;Gaza;Chokwe;090604;Xilembene
+0907;Gaza;Guija;090701;Vila Caniçado
+0907;Gaza;Guija;090702;Chivonguene
+0907;Gaza;Guija;090703;Mubangoene
+0907;Gaza;Guija;090704;Nalazi
+0908;Gaza;Mabalane;090801;Mabalane
+0908;Gaza;Mabalane;090802;Combomune
+0908;Gaza;Mabalane;090803;Ntlhavene
+0909;Gaza;Mandlakazi;090901;Mandlakazi Sede
+0909;Gaza;Mandlakazi;090902;Chalala
+0909;Gaza;Mandlakazi;090903;Chibondzane
+0909;Gaza;Mandlakazi;090904;Chidenguele
+0909;Gaza;Mandlakazi;090905;Macuacua
+0910;Gaza;Massangena;091001;Massangena
+0910;Gaza;Massangena;091002;Mavue
+0911;Gaza;Massingir;091101;Massingir
+0911;Gaza;Massingir;091102;Mavodze
+0911;Gaza;Massingir;091103;Zulo
+0912;Gaza;Limpopo;091201;Chicumbane
+0912;Gaza;Limpopo;091202;Chissano
+0912;Gaza;Limpopo;091203;Zongoene Sede
+0913;Gaza;Chongoene;091301;Chongoene
+0913;Gaza;Chongoene;091302;Mazucane
+0913;Gaza;Chongoene;091303;Nguzene
+0914;Gaza;Mapai;091401;Mapai
+0914;Gaza;Mapai;091402;Machaila
+1001;Maputo Provincia;Cidade da Matola;100101;Matola Cidade
+1001;Maputo Provincia;Cidade da Matola;100102;Infulene
+1001;Maputo Provincia;Cidade da Matola;100103;Machava
+1002;Maputo Provincia;Boane;100201;Boane-Sede
+1002;Maputo Provincia;Boane;100202;Matola Rio
+1003;Maputo Provincia;Magude;100301;Magude Sede
+1003;Maputo Provincia;Magude;100302;Mapulanguene
+1003;Maputo Provincia;Magude;100303;Motaze
+1003;Maputo Provincia;Magude;100304;Mahel
+1003;Maputo Provincia;Magude;100305;Panjane
+1004;Maputo Provincia;Manhica;100401;Manhica Sede
+1004;Maputo Provincia;Manhica;100402;Calanga
+1004;Maputo Provincia;Manhica;100403;Ilha Josina Machel
+1004;Maputo Provincia;Manhica;100404;Maluana
+1004;Maputo Provincia;Manhica;100405;Xinavane
+1004;Maputo Provincia;Manhica;100406;3 de Fevereiro
+1005;Maputo Provincia;Marracuene;100501;Marracuene
+1005;Maputo Provincia;Marracuene;100502;Machubo
+1006;Maputo Provincia;Matutuine;100601;Bela Vista
+1006;Maputo Provincia;Matutuine;100602;Catembe M'Sime
+1006;Maputo Provincia;Matutuine;100603;Catuane
+1006;Maputo Provincia;Matutuine;100604;Machangulo
+1006;Maputo Provincia;Matutuine;100605;Zitundo
+1007;Maputo Provincia;Moamba;100701;Moamba Sede
+1007;Maputo Provincia;Moamba;100702;Pessene
+1007;Maputo Provincia;Moamba;100703;Ressano Garcia
+1007;Maputo Provincia;Moamba;100704;Sabie
+1008;Maputo Provincia;Namaacha;100801;Namaacha
+1008;Maputo Provincia;Namaacha;100802;Changalane

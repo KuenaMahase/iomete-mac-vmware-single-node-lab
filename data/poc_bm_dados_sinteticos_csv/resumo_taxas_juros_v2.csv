@@ -1,0 +1,8 @@
+dataset;campo;min;p95;p99;max
+quadro_1;Spread da taxa de juros;-1.8969;11.2822;13.1294;44.5266
+quadro_2;Taxa de juros de referência;9.0;18.6185;20.1303;34.8819
+quadro_2;Taxa de juros efectiva;-4.9836;27.313;30.0976;54.5564
+quadro_2;Taxa de juros de mora;14.0;34.0667;37.0793;60.0
+quadro_9;Taxa Anual Efectiva (TAE);0.0001;10.6426;11.72;11.9999
+quadro_9;Taxa Anual Nominal Bruta (TANB);0.0071;11.1395;12.2466;12.9878
+quadro_9;Taxa Anual Nominal Líquida (TANL);0.0001;8.5141;9.376;9.5999
