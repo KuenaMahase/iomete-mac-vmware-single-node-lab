@@ -222,3 +222,7 @@ The focused Banco de Moçambique Data Quality Reporting workstream is documented
 Repository Navigation
 Repository Map
 Data Quality Demo Guide
+
+## Banco de Moçambique Analytics Proposal
+
+- [Banco de Moçambique Analytics, Data Quality and ML Proposal](docs/banco-de-mocambique-analytics-data-quality-ml-proposal.md)
